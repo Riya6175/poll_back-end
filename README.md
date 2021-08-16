@@ -4,4 +4,4 @@
 > Candidates can vote here their favourite candidate and view result.
 
 # Run this backend server by:
-## **python server.py**
+## `**python server.py**`

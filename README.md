@@ -1,5 +1,5 @@
 # poll-simulator-server
-> ## This is poll simulator backend server. 
+This is poll simulator backend server. 
 
 > Candidates can vote here their favourite candidate and view result.
 

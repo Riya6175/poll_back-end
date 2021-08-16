@@ -1,2 +1,7 @@
 # poll-simulator-server
-poll-simulator server for rest api 
+This is poll simulator-server. 
+
+> Candidates can vote here their favourite candidate and view result.
+
+# Run this backend server by:
+**python server.py**

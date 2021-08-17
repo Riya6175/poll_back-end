@@ -15,4 +15,5 @@ This is poll simulator backend server.
 #### `cd poll-simulator-server`
 #### then install all libraires by
 #### `pip install -r requirnment.txt`
-### `python server.py`
+#### Run command to execute
+#### `python server.py`
